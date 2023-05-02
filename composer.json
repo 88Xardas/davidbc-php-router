@@ -1,0 +1,19 @@
+{
+    "name": "davidbc/php-router",
+    "description": "this is a simple router build during the php course",
+    "require": {
+        "php": "^7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Davidbc\\PhpRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Bocanegra"
+        }
+    ],
+    "minimum-stability": "dev"
+}
