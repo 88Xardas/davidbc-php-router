@@ -2,7 +2,7 @@
     "name": "davidbc/php-router",
     "description": "this is a simple router build during the php course",
     "require": {
-        "php": "^7.3"
+        "php": "^8.0"
     },
     "license": "MIT",
     "autoload": {
@@ -15,5 +15,5 @@
             "name": "David Bocanegra"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
